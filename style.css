@@ -369,7 +369,7 @@ h2{
 
 #projects-container{
     display: flex;
-    height: 70%;
+    height: 80%;
     overflow-x: hidden;
     gap: 20px;
     width: 100%;
